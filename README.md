@@ -8,37 +8,37 @@ It is a component for Windows written in C # that allows you to edit a text fiel
 
 Italian
 
-<img src="https://i.ibb.co/gFGYP2x/IT-D3-F1-B31-F-621-B-4604-A17-F-C5-A9746958-F9.png" alt="IT Layout">
+<img src="docs/assets/images/TKB1.png" alt="IT Layout">
 
 
-French
+French  
 
-<img src="https://i.ibb.co/09tz4YM/FR-D3-F1-B31-F-621-B-4604-A17-F-C5-A9746958-F9.png" alt="FR Layout">
+<img src="docs/assets/images/TKB2.png" alt="FR Layout">
 
 
 German
 
-<img src="https://i.ibb.co/b7njyHF/DE-D3-F1-B31-F-621-B-4604-A17-F-C5-A9746958-F9.png" alt="DE Layout">
+<img src="docs/assets/images/TKB3.png" alt="DE Layout">
 
 
 Spanish
 
-<img src="https://i.ibb.co/Rptt78C/ES-D3-F1-B31-F-621-B-4604-A17-F-C5-A9746958-F9.png" alt="ES Layout">
+<img src="docs/assets/images/TKB4.png" alt="ES Layout">
 
 
 Obviously almost all layouts managed by Windows are supported. 
 
 Since not all touch screens support multiple touch points, this component is capable of handling keystrokes to obtain code-points such as capital letters, numbers or punctuation symbols. For example pressing the [Shift] key the keyboard layout changes like this:
 
-<img src="https://i.ibb.co/7CRNpty/SHIFT-D3-F1-B31-F-621-B-4604-A17-F-C5-A9746958-F9.png" alt="Shift key pressed Layout">
+<img src="docs/assets/images/TKB5.png"  alt="Shift key pressed Layout">
 
 Also the [Alt-Gr] key alters keyboard layout:
 
-<img src="https://i.ibb.co/ryWDGCR/ALT-GR-D3-F1-B31-F-621-B-4604-A17-F-C5-A9746958-F9.png" alt="Alt-Gr key pressed Layout">
+<img src="docs/assets/images/TKB6.png" alt="Alt-Gr key pressed Layout">
 
 Control key combinations such as [Alt-Gr] + [Shift] are also managed:
 
-<img src="https://i.ibb.co/c2jq9Bn/COMBO-D3-F1-B31-F-621-B-4604-A17-F-C5-A9746958-F9.png" alt="Control key combo pressed Layout">
+<img src="docs/assets/images/TKB7.png" alt="Control key combo pressed Layout">
 
 ### Prerequisites
 
